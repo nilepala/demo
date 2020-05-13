@@ -4,4 +4,6 @@ This is first file to commit
 
 this line is to check diff
 
+this is for updates
+This is to cause conflict in very bad
 I hope this is not much of probem.
